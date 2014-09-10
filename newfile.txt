@@ -1,1 +1,2 @@
 First but not the last
+This change appears only for “newbranch”
